@@ -18,5 +18,5 @@ per = x * y
 div = y / x
 print("La somma è", somma)
 print("La sottrazione è", sottr)
-print("La moltiplicazione è", per)
-print("La divisione è", div)
+print("Il prodotto è", per)
+print("La quoziente è", div)
